@@ -26,7 +26,7 @@ This is a front-end website in Vanilla JavaScript. The website is a single page 
 
 ## Live demo
 
-I have upload a live demo on [Google Cloud](www.google.com).
+I have upload a live demo on [Google Cloud](http://35.244.125.146:8005/).
 
 There are a few usernames with full profile and feeds in order for you to enjoy all functions.
 
